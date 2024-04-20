@@ -1,4 +1,4 @@
-#Digits
+# Digits
 
 Welcome to **digits** a lightweight climbing training application focused on finger strength and recoupment.
 
